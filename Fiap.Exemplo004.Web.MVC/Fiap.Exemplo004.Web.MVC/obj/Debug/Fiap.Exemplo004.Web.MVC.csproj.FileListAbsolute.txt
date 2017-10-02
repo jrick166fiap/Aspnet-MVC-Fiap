@@ -1,0 +1,201 @@
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\ApplicationInsights.config
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\csc.exe
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\vbc.exe
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\VBCSCompiler.exe
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Fiap.Exemplo004.Web.MVC.dll.config
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Fiap.Exemplo004.Web.MVC.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Fiap.Exemplo004.Web.MVC.pdb
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.SqlServer.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.Web.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.WindowsServer.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.ApplicationInsights.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Helpers.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Mvc.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Razor.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Deployment.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Razor.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.xml
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.SqlServer.xml
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.Web.xml
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.WindowsServer.xml
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.ApplicationInsights.xml
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Razor.xml
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.xml
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Deployment.xml
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Razor.xml
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Helpers.xml
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Mvc.xml
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\obj\Debug\Fiap.Exemplo004.Web.MVC.csprojResolveAssemblyReference.cache
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\obj\Debug\Fiap.Exemplo004.Web.MVC.dll
+D:\windao\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\obj\Debug\Fiap.Exemplo004.Web.MVC.pdb
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\ApplicationInsights.config
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\csc.exe
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\vbc.exe
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\VBCSCompiler.exe
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Fiap.Exemplo004.Web.MVC.dll.config
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Fiap.Exemplo004.Web.MVC.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Fiap.Exemplo004.Web.MVC.pdb
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.SqlServer.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.Web.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.WindowsServer.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.ApplicationInsights.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Helpers.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Mvc.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Razor.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Deployment.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Razor.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.xml
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.SqlServer.xml
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.Web.xml
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.WindowsServer.xml
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.ApplicationInsights.xml
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Razor.xml
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.xml
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Deployment.xml
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Razor.xml
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Helpers.xml
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Mvc.xml
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\obj\Debug\Fiap.Exemplo004.Web.MVC.csprojResolveAssemblyReference.cache
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\obj\Debug\Fiap.Exemplo004.Web.MVC.dll
+D:\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\obj\Debug\Fiap.Exemplo004.Web.MVC.pdb
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\ApplicationInsights.config
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\csc.exe
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\vbc.exe
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Fiap.Exemplo004.Web.MVC.dll.config
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Fiap.Exemplo004.Web.MVC.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Fiap.Exemplo004.Web.MVC.pdb
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Helpers.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Mvc.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Razor.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Razor.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Helpers.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Mvc.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\obj\Debug\Fiap.Exemplo004.Web.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\obj\Debug\Fiap.Exemplo004.Web.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\obj\Debug\Fiap.Exemplo004.Web.MVC.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet - Copy\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\obj\Debug\Fiap.Exemplo004.Web.MVC.pdb
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\ApplicationInsights.config
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\csc.exe
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\vbc.exe
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Fiap.Exemplo004.Web.MVC.dll.config
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Fiap.Exemplo004.Web.MVC.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Fiap.Exemplo004.Web.MVC.pdb
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Helpers.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Mvc.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Razor.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Razor.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Helpers.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\bin\System.Web.Mvc.xml
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\obj\Debug\Fiap.Exemplo004.Web.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\obj\Debug\Fiap.Exemplo004.Web.MVC.dll
+C:\Users\Jaime\Desktop\Estudos_AspNet\Aspnet-MVC-Fiap-master\Fiap.Exemplo004.Web.MVC\Fiap.Exemplo004.Web.MVC\obj\Debug\Fiap.Exemplo004.Web.MVC.pdb

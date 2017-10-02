@@ -1,0 +1,38 @@
+﻿@model Fiap.Exemplo03.Web.MVC.Models.Apostador
+@{
+    ViewBag.Title = "Cadastro de Apostadores";
+}
+
+<h2>Cadastro de Apostadores</h2>
+
+@Ajuda.Message(TempData["msg"] as string, "info")
+
+@using (Html.BeginForm())
+{
+
+    <div class="form-group">
+        @Html.LabelFor(p=> p.Nome)
+        @Html.TextBoxFor(p=> p.Nome, new { @class="form-control"})
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(p=> p.Email)
+        @Html.TextBoxFor(p=>p.Email, new { @class="form-control"})
+
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(p=>p.DataNascimento)
+        @Html.TextBoxFor(p=>p.DataNascimento, new { @class="form-control"})
+
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(p=>p.Saldo)
+        @Html.TextBoxFor(p=>p.Saldo, new { @class="form-control"})
+    </div>
+
+    <input type="submit" value="Cadastrar" />
+
+}
+

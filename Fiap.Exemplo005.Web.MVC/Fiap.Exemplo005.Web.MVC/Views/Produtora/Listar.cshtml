@@ -1,0 +1,31 @@
+﻿@model List<Fiap.Exemplo005.Web.MVC.Models.Produtora>
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Listar de Produtoras</h2>
+
+<table class="table">
+
+    <tr>
+        <th>Nome</th>
+        <th></th>
+
+    </tr>
+    
+    @foreach (var item in Model)
+    {
+
+    
+    <tr>
+        <td>@item.Nome</td>
+        <td>@Html.ActionLink("Alterar","Alterar",new { id = item.ProdutoraId},new { @class="btn btn-default"})</td>
+
+    </tr>
+
+    }
+
+
+
+</table>
+

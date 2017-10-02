@@ -1,0 +1,29 @@
+﻿@model Fiap.Exemplo03.Web.MVC.Models.Aposta
+@{
+    ViewBag.Title = "Alterar";
+}
+
+<h2>Alterar Apostas</h2>
+
+@using (Html.BeginForm()) {
+
+
+    <div class="form-group">
+        @Html.LabelFor(a=>a.Valor)
+        @Html.TextBoxFor(a=>a.Valor, new { @class="form-control"})
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(a=>a.DataAposta)
+        @Html.TextBoxFor(a=>a.DataAposta, new {@class="form-control"})
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(a=>a.Acumulado ,new { @class = "form-control" })
+        @Html.CheckBoxFor(a=>a.Acumulado)
+    </div>
+    
+    <input type="submit" value="Alterar" , class="btn btn-default" />
+    @Html.ActionLink("Cancelar","listar","Aposta",new { @class="btn btn-default"})
+}
+

@@ -1,0 +1,44 @@
+﻿@model Fiap.Exemplo004.Web.MVC.Models.Jogador
+@{
+    ViewBag.Title = "Cadastrar";
+}
+
+<h2>Cadastro de Jogador</h2>
+@if (TempData["msg"] != null)
+{
+
+    <div class="alert alert-success">@TempData["msg"]</div>
+}
+
+
+@using (Html.BeginForm()) {
+
+    <div class="from-group">
+        @Html.LabelFor(j=>j.Nome)
+        @Html.TextBoxFor(j=>j.Nome,new { @class="form-control"})
+        @Html.ValidationMessageFor(j => j.Nome,
+                        null, new { @class = "text-danger" })
+    </div>
+    
+    <div class="form-group">
+        @Html.LabelFor(j=>j.Numero)
+        @Html.TextBoxFor(j=>j.Numero, new { @class="form-control"})
+        @Html.ValidationMessageFor(J => J.Numero,
+                        null, new { @class="text-danger"})
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(j=>j.Time)
+        @Html.DropDownListFor(j=>j.TimeId ,
+        ViewBag.times as SelectList,
+        "Selecione",
+        new { @class="form-control"})
+        @Html.ValidationMessageFor(j => j.TimeId,
+                        null, new { @class = "text-danger" })
+
+
+    </div>
+
+    <input type="submit" value="Salvar" class="btn btn-primary" />
+}
+

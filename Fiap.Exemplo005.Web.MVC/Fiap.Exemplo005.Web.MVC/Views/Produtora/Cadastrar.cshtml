@@ -1,0 +1,24 @@
+﻿@model Fiap.Exemplo005.Web.MVC.Models.Produtora
+@{
+    ViewBag.Title = "Cadastrar";
+}
+
+<h2>Cadastro de Produtora</h2>
+
+
+@if(TempData["msg"] != null)
+{
+    <div class="alert-success">@TempData["msg"]</div>
+}
+
+@using (Html.BeginForm())
+
+{
+    <div class="form-group">
+        @Html.LabelFor(j => j.Nome)
+        @Html.TextBoxFor(j => j.Nome, new { @class = "form-control" })
+        @Html.ValidationMessageFor(j=> j.Nome, null, new { @class="text-danger"})
+    </div>
+
+    <input type="submit" value="Cadastrar" class="btn btn-default" />
+}

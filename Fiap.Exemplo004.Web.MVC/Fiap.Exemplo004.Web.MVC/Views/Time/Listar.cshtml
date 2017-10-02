@@ -1,0 +1,40 @@
+﻿@model List<Fiap.Exemplo004.Web.MVC.Models.Time>
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Lista de Times</h2>
+
+@if (TempData["msg"] != null) {
+
+    <div class="alert-success">@TempData["msg"]</div>
+
+}
+
+
+@using (Html.BeginForm()) {
+
+<table class="table">
+
+    <tr>
+        <th>Nome</th>
+        <th>Data de Fundação</th>
+        <th>Técnico</th>
+        <th>Salário</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>@item.Nome</td>
+        <td>@item.DataFundacao.ToShortDateString()</td>
+        <td>@item.Tecnico.Nome</td>
+        <td>@item.Tecnico.Salario</td>
+    </tr>
+    }
+
+
+</table>
+
+}
+

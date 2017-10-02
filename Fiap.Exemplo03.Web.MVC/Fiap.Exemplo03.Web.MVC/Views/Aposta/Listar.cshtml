@@ -1,0 +1,40 @@
+﻿@model  List<Fiap.Exemplo03.Web.MVC.Models.Aposta>
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Listar de Apostas</h2>
+
+@if (TempData["msg"] != null) {
+
+<div class="=alert alert-success">
+    @TempData["msg"]
+
+</div>
+
+}
+
+<table class="table">
+    <tr>
+        <th>Valor</th>
+        <th>Data Aposta</th>
+        <th>Acumulado</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+
+   
+    <tr>
+        <td>@item.Valor</td>
+        <td>@item.DataAposta.ToShortDateString()</td>
+        <td>@item.Acumulado</td>
+        <td>@Html.ActionLink("Editar","Alterar",new {id =item.id})</td>
+        <td>@Html.ActionLink("Exlcuir","Remover",new { id=item.id})</td>
+
+    </tr>
+    }
+
+
+</table>
+
